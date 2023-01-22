@@ -9,4 +9,8 @@ members:
 - William
 - David
 - conflict test
+<<<<<<< HEAD
 - Kim
+=======
+- Park
+>>>>>>> conflict
